@@ -82,6 +82,37 @@
 |懲教署|http://www.csd.gov.hk/tc_chi/home/home.html|
 |香港醫學會|http://www.hkma.org/index.htm|
 |香港傳染病醫學會|http://www.hksid.org/|
+|消防處|http://www.hkfsd.gov.hk/chi/index.html|
+|政府飛行服務隊|http://www.gfs.gov.hk/tch/homec.htm|
+|香港警務處|http://www.police.gov.hk/ppp_tc/|
+|衛生署子宮頸普查計劃網站|https://www.cervicalscreening.gov.hk/cindex.php|
+|長者健康服務|https://www.elderly.gov.hk/cindex.html|
+|家庭健康服務|https://www.fhs.gov.hk/tc_chi/|
+|學生健康服務|https://www.studenthealth.gov.hk/tc_chi/health/health.html|
+|香港醫務委員會|https://www.mchk.org.hk/c_index.html|
+|香港牙醫管理委員會|https://www.dchk.org.hk/tc/index.htm|
+|香港中醫藥管理委員會|https://www.cmchk.org.hk|
+|電子版香港法例|https://www.elegislation.gov.hk|
+|立法會|http://www.legco.gov.hk/cindex.htm|
+|司法機構|http://www.judiciary.gov.hk/|
+|香港法律改革委員會|http://www.hkreform.gov.hk/tc/index/index.htm|
+|香港法律資訊研究中心|http://www.hklii.org/c_index.shtml|
+|香港律師會|http://www.hklawsoc.org.hk/pub_c/default.asp?|
+|香港大律師公會|http://www.hkba.org/zh-hant|
+|香港營養師協會|http://www.hkda.com.hk/|
+|香港營養學會|http://www.hkna.org.hk/zh-hant|
+|「幼營喜動校園計劃」網站|https://www.startsmart.gov.hk/tc/index.aspx|
+|衞生署「健康飲食在校園」運動網站|https://school.eatsmart.gov.hk/b5/index.aspx|
+|衞生署「星級有營食肆」運動|http://restaurant.eatsmart.gov.hk/b5/home.asp|
+|戒酒無名會|http://www.aa-hk.org|
+|1823網站|https://www.1823.gov.hk|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
 【未完，待續】
 
 
