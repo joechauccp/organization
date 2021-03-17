@@ -5,7 +5,7 @@
 |政府一站通搜尋網站|https://www.search.gov.hk/|
 |工業貿易署| https://www.tid.gov.hk/ |
 |工業貿易署戰略物品管制制度網站| https://www.stc.tid.gov.hk/ |
-|工業貿易署（公約）條例網站||
+|工業貿易署化學武器（公約）條例網站|https://www.cwc.tid.gov.hk/|
 |禁止化學武器組織|https://www.opcw.org|
 |影視及娛樂事務管理處(已解散)|https://www.tela.gov.hk|
 |香港海關|https://www.customs.gov.hk|
@@ -35,3 +35,12 @@
 |愛滋熱線網站|https://www.27802211.com|
 |男同志預防愛滋病資訊網站|https://www.21171069.gov.hk|
 |衛生署愛滋病網上辦公室|https://www.aids.gov.hk|
+|衛生署紅絲帶中心|https://www.rrc.gov.hk|
+|愛滋病顧問局|https://www.aca.gov.hk|
+|愛滋病信托基金委員會|https://www.atf.gov.hk|
+|支援社A-Backup|https://www.abackuphk.com|
+|青鳥|https://www.afro.org.hk|
+|關懷愛滋|http://www.aidsconcern.org.hk|
+|香港愛滋病基金會|http://www.aids.org.hk|
+|子宮頸普查計劃網站|http://www.cervicalscreening.gov.hk/cindex.php|
+【未完，待續】
